@@ -1,0 +1,25 @@
+body{
+	color:#000;
+
+}
+main {
+    text-align:center;
+}
+
+.cal-con {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+}
+.cal-con label {
+    min-width: 156px;
+    float: left;
+}
+#calculate {
+    padding: 5px 15px;
+    margin-top: 20px;
+    background: #000;
+    color: #fff;
+    border: 0;
+    font-size: 18px;
+}
